@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Run the Project
 
 ```bash
-python air_writing_code.py
+python air_writing_code.py '''
 
 ## Gestures
 
