@@ -13,7 +13,7 @@ AI-powered air writing project using Python, OpenCV, MediaPipe and Tesseract OCR
 - Undo and clear options
 - Save drawing
 - AI text recognition using Tesseract OCR
-- 
+  
 ## Technologies
 
 - Python
@@ -22,7 +22,7 @@ AI-powered air writing project using Python, OpenCV, MediaPipe and Tesseract OCR
 - NumPy
 - Tesseract OCR
 - Pytesseract
-- 
+  
 ## How to Run
 
 Install dependencies:
