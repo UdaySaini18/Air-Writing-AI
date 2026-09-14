@@ -1,6 +1,8 @@
 # Air Writing AI
 
 AI-powered air writing project using Python, OpenCV, MediaPipe and Tesseract OCR.
+## Project Demo
+![Project Demo](Screenshot%20%2823%29.png)
 ## Features
 
 - Real-time hand tracking
