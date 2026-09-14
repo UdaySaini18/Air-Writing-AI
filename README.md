@@ -21,17 +21,19 @@ AI-powered air writing project using Python, OpenCV, MediaPipe and Tesseract OCR
 - Tesseract OCR
 - Pytesseract
 - 
-  ## How to Run
+## How to Run
 
 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Run the Project
 
 ```bash
-python air_writing_code.py '''
+python air_writing_code.py
+```
 
 ## Gestures
 
