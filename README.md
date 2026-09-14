@@ -25,8 +25,14 @@ AI-powered air writing project using Python, OpenCV, MediaPipe and Tesseract OCR
 
 Install dependencies:
 
-```bash
+```## Installation
+Install Python 3.12
+Clone this repository
+Create a virtual environment
+py -3.12 -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
+Install Tesseract OCR separately
 ```
 
 ## Run the Project
