@@ -36,6 +36,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 Install Tesseract OCR separately
 Download and install Tesseract OCR for Windows.
+https://github.com/tesseract-ocr/tessdoc/blob/main/Installation.md?utm_source=chatgpt.com
 ```
 
 ## Run the Project
